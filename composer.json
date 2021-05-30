@@ -1,0 +1,14 @@
+{
+    "name": "mailer/my-lib",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Maksym Solomianyi",
+            "email": "maxssolom@gmail.com"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "^6.0",
+        "monolog/monolog": "^2.2"
+    }
+}
