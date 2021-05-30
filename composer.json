@@ -1,5 +1,6 @@
 {
-    "name": "mailer/my-lib",
+    "name": "mailer/simple-mailer",
+    "description": "Simple mailer",
     "type": "library",
     "authors": [
         {
